@@ -1,0 +1,5 @@
+The main pattern that the graphic is trying to display is the sharp decrease in yearly measles cases after the introduction of the vaccine. The highlighting of the year the vaccine was introduced implies that the author wants the reader to draw a causal conclusion between the vaccine and the change in cases. 
+
+In the first graphic I made shows the cumulative cases over time instead of the yearly cases. I believe that this type of graph more successfully emphasizes how effective the vaccine was as it is very easy to visually asses the difference in slope before vs after the vaccine. Further, readers don't need to refer back to a legend if they want to know the values that each point is representing. 
+
+The second graphic I made shows yearly cases, but in a line graph format instead of the area-based format the original author used. In this graph, it is a bit easier to get accurate estimates of the yearly change in case numbers, but the effect of the vaccine is still centre-stage. It is easy to see (as with the original) that post-vaccine numbers do vary, but they never approach the pre-vaccine numbers. 
