@@ -7,5 +7,13 @@ Table 1 note says "The unattractiveness scale is reversed in that higher ratings
 The original table requires you to read it while keeping several numbers in your mind to compare. For example, when going down a column, say "Attractiveness", you need to remember the scores for each orientation for each face sex. That's a lot of information (going off of the 7+/-2 rule for working memory) to be keeping in our heads at once. If you want to know integrate the confidence intervals into your understanding, that entirely overloads the brain with numbers and is no longer useful. Then, readers going across columns need to recall conclusions from previous columns and so on. Overall, a big onus on the reader. 
 
 My visualization presents all the same information, but in a way that highlights the most important trends and makes them easy to pick up without overwhelming one's working memory: as face orientation goes towards full inversion, faces are rated as more attractive (as seen by first 2 graphs) and less distinctive (right-most graph). Further, male faces seem to be rated as more distincive overall, i.e. when holding orientation constant (though unclear if this effect is significant). Sex differences for attractiveness are not as clear from the visualization, potentially because there is no real difference. Lastly, we can see that there may be some differences between attractiveness and reversed unattractiveness, as the plots should theoretically look the same, but some trends seem different (e.g. upright faces were rated similarly in attractiveness across sex, but differently in reversed unattractiveness; vice versa for fully inverted faces; female faces seemed slightly more attractive overall, but males overall scored higher in reverse unattractiveness)
+ 
+BMB:  "there is no real difference" is a red herring. If you had a large enough sample size there would always be a difference ...
+
+Don't quite follow your point about "attractiveness vs reversed unattractiveness"; would there be a way to draw a graphical representation that showed attractiveness and reversed unattractiveness on the same plot? (The sec_axis() function allows you to add a secondary axis that is a transformation of the primary axis ...)
+
+Mark: 2.3/3
+
+
 
 
